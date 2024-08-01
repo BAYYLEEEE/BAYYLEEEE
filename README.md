@@ -1,9 +1,13 @@
 ## 🤙🏻
 
 • Me chamo Igor
+
 • Estudando o alura
+
 • Estou no segundo ano ensino medio
+
 • Produzindo o meu primeiro projeto do GitHub
+
 • Gosto de jogos
 
 ~~> inst @ihw700
